@@ -1,11 +1,10 @@
 # Hello World! 👋
 
-A fullstack developer
-
-![Skills](https://skillicons.dev/icons?i=ps,html,css,js,jquery,ts,wasm,php,nodejs,mysql,sqlite,regex,c,cpp,cmake,bash,nginx,electron,github,git,svg,nginx,go,md,redis,linux,vim,vscode,md,bootstrap,codepen,docker,figma,firebase,graphql,laravel,linkedin,postman,raspberrypi,stackoverflow,wordpress,xd,bsd,au&theme=light)
-
+![Skills](https://skillicons.dev/icons?i=php,nodejs,html,css,js,wordpress,jquery,ts,wasm,mysql,sqlite,regex,c,cpp,cmake,bash,electron,github,git,svg,nginx,go,md,redis,linux,vim,vscode,md,bootstrap,codepen,docker,figma,firebase,graphql,laravel,linkedin,postman,raspberrypi,stackoverflow,ps,xd,bsd,au&theme=light)
 
 ![Skills](https://cheesits456-readme-stats.vercel.app/api/top-langs?username=samad-aghaei&layout=compact&langs_count=60&show_icons=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samad-aghaei&repo=SVG-Icons-Table-View)](https://github.com/samad-aghaei/SVG-Icons-Table-View)
+
 <!--
 **samad-aghaei/samad-aghaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
